@@ -36,7 +36,7 @@ if (!coin) return <LinearProgress style={{ backgroundColor: "gold" }} />;
           src={coin?.image.large}
           alt={coin?.name}
           height="200"
-          style={{ marginBottom: 20 }}
+          style={{ marginBottom: 20, alignSelf: "center" }}
         />
         <Typography variant="h3" className="heading">
           {coin?.name}

@@ -5,10 +5,11 @@
     padding-left: 20;
     padding-right: 20;
     font-family: "Montserrat";
+    text-align: center;
     cursor: pointer;
     &:hover {
-      background-color: "gold";
-      color: "black";
+      background-color: gold;
+      color: black;
     };
     width: 22%;
   }

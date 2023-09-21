@@ -21,7 +21,7 @@ const Header = () => {
     <AppBar color='transparent' position='static'>
         <Container>
             <Toolbar>
-                <Typography onClick = {() => history.push("/")} className="title">
+                <Typography onClick = {() => history.push("/")} className="title" style={{fontFamily:'Montserrat', fontWeight:'bold', fontSize:'large'}}>
                     Bitcoin Romania
                 </Typography>
                 <Select variant = "outlined"
