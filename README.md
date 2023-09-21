@@ -5,6 +5,7 @@ Application made with React for Bitcoin Romania's recruitment process, the main 
 
 **[📃 First Time Installation](#-first-time-installation)**<br>
 **[📱Running The App](#-running-the-app)**<br>
+**[₿ Features](#-features)**<br>
 
 ### ⚡ Technologies and Utilities
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
