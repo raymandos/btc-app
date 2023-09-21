@@ -27,7 +27,7 @@ Application made with React for Bitcoin Romania's recruitment process, the main 
 - Open a terminal inside the code base and run `npm run build`
 - Then run `serve -s build`
 - (Optional: If running development server) Open a terminal and inside run `npm start`
-- You can also preview the project in Vercel using the link https://btc-app-mu.vercel.app/ or btc-app-git-master-raymandos.vercel.app
+- You can also preview the project in Vercel using the link https://btc-app-mu.vercel.app/ or https://btc-app-git-master-raymandos.vercel.app
 
 ## ₿ Features
 - A header with a logo placeholder that acts as a homepage button
