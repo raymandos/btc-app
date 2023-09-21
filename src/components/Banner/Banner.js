@@ -1,6 +1,7 @@
 import { Container, Typography } from '@material-ui/core';
 import React from 'react';
 import './Banner.css';
+import Carousel from './Carousel';
 
 const Banner = () => {
   return (
@@ -23,11 +24,13 @@ const Banner = () => {
               color: "darkgrey",
               textTransform: "capitalize",
               fontFamily: "Montserrat",
+              marginBottom: 40,
             }}
           >
             Everything you need to know about cryptocurrency
           </Typography>
         </div>
+        <Carousel />
         </Container>
     </div>
   )

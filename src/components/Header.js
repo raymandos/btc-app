@@ -1,7 +1,7 @@
 import { AppBar, Container, MenuItem, Select, ThemeProvider, Toolbar, Typography, createTheme } from '@material-ui/core';
 import React from 'react'
 import './Header.css';
-import { useHistory } from 'react-router-dom/cjs/react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { CryptoState } from '../CryptoContext';
 
 
