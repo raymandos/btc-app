@@ -1,5 +1,5 @@
-# Cryptocurrency Rate App made with React 🏄
-Application made with React for Bitcoin Romania's recruitment process, the main scope of which is showcasing different cryptocurrencies and the current rates in real-time.
+# Cryptocurrency Rate App made with React 🪙
+Application made with React for Bitcoin Romania's recruitment process, the main scope of which is showcasing different cryptocurrencies and the current rates in real-time using CoinGecko public API.
 
 ## 📑 Table of Contents
 
@@ -27,3 +27,11 @@ Application made with React for Bitcoin Romania's recruitment process, the main 
 - Then run `serve -s build`
 - (Optional: If running development server) Open a terminal and inside run `npm start`
 - You can also preview the project in Vercel using the link https://btc-app-mu.vercel.app/
+
+## ₿ Features
+- A header with a logo placeholder that acts as a homepage button
+- A currency selector that changes the currency in which all rates are displayed.
+- A carousel that displays the 10 most trending coins in succession, all of which can be clicked for more details.
+- A responsive table with a search bar and pagination for displaying and searching among the top 100 coins from CoinGecko.
+- Each table entry can be clicked for redirection to a Coin Info page.
+- The coin info page includes the image, name, description and a rate graph for each cryptocurrency.
